@@ -40,3 +40,6 @@ app.listen(PORT, () => console.log(`Listening on ${PORT}`));
 
 
 //--Heroku Set Up -- Follow Notion Steps --> Test Here: https://express-react-rk.herokuapp.com/
+    //Add't Tests for Routes in Heroku: https://express-react-rk.herokuapp.com/about
+                                      //https://express-react-rk.herokuapp.com/projects
+
